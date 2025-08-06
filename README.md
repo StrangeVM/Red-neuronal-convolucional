@@ -1,6 +1,6 @@
 # 📷 Proyecto de Estimación de Edad por Imágenes
 
-👋 ¡Hola! Soy Víctor, Data Scientist Junior.  
+👋 ¡Hola! Soy Víctor, Data Scientist.  
 Te comparto un resumen sencillo del proyecto que predice la edad de personas a partir de sus fotos.
 
 ---
